@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Do you have an idea that supports environmental sustainability and involves the community?
         # subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        background: /images/rooftop-farm.jpg
         # button: Apply for the SG Eco Fund Now
         # url: /contact-us/
         key_highlights:
