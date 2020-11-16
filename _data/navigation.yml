@@ -7,13 +7,15 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Faq
-    url: /faq/
+  - title: About
+    url: /about/
+  - title: Fund Info
+    url: /fund-info/
   - title: Apply
-    collection: apply
-  - title: Showcase
-    collection: showcase
-  - title: News
+    url: /Apply/
+  - title: FAQs
+    url: /faqs/
+  - title: Updates
     resource_room: true
+  - title: Contact
+    url: /contact/
