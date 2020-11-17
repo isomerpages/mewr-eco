@@ -13,7 +13,7 @@ sections:
         # button: Apply for the SG Eco Fund Now
         # url: /contact-us/
         key_highlights:
-            - title: Apply for the SG Eco Fund Now
+            # - title: Apply for the SG Eco Fund Now
               description:
               url: https://google.com
             # - title: Highlight B
@@ -28,11 +28,8 @@ sections:
     #     description: About a sentence worth of description here
     #     button: Button text
     #     url: /faq/
-    - resources:
-        title: Updates
+    # # - resources:
+    #     title: Updates
         # subtitle: Learn more
-        button: View More
+        # button: View More
 ---
-
-// test
-// test on staging david

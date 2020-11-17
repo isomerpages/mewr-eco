@@ -1,7 +1,7 @@
----
+<!-- ---
 title: About SG Eco Fund
 permalink: /about/
----
+--- -->
 
 The $50 million SG Eco Fund was set up in 2020 to support projects that advance environmental sustainability and involve the community. We hope to motivate and enable Singaporeans to take collective action for the environment.
 

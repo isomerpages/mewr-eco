@@ -7,15 +7,15 @@
 logo: /images/sgeco-logo.jpg
 
 links:
-  - title: About
-    url: /about/
-  - title: Fund Info
-    url: /fund-info/
-  - title: Apply
-    url: /Apply/
-  - title: FAQ
-    url: /faq/
-  - title: Updates
-    resource_room: true
-  - title: Contact
-    url: /contact-us/
+  # - title: About
+  #   url: /about/
+  # - title: Fund Info
+  #   url: /fund-info/
+  # - title: Apply
+  #   url: /Apply/
+  # - title: FAQ
+  #   url: /faq/
+  # - title: Updates
+  #   resource_room: true
+  # - title: Contact
+  #   url: /contact-us/
