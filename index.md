@@ -7,7 +7,7 @@ permalink: /
 # notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Do you have an idea that supports environmental sustainability and involves the community?
+        title: <h1 style="text-shadow:2px 2px 4px black">Do you have an idea that supports environmental sustainability and involves the community?</h1>
         # subtitle: Hero subtitle
         background: /images/rooftop-farm.jpg
         # button: Apply for the SG Eco Fund Now

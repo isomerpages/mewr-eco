@@ -5,19 +5,19 @@ favicon: /images/favicon-isomer.ico
 # Site colors
 # #009459
 colors:
-  primary-color: '#009459'
-  secondary-color: '#009459'
+  primary-color: '#376739'
+  secondary-color: '#376739'
   media-colors:
     - title: media-color-one
-      color: '#DC3646'
+      color: '#376739'
     - title: media-color-two
-      color: '#DC3646'
+      color: '#376739'
     - title: media-color-three
-      color: '#DC3646'
+      color: '#376739'
     - title: media-color-four
-      color: '#DC3646'
+      color: '#376739'
     - title: media-color-five
-      color: '#DC3646'
+      color: '#376739'
 
 
 collections:
