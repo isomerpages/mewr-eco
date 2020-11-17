@@ -1,6 +1,6 @@
 ---
-title: FAQs
-permalink: /faqs/
+title: FAQ
+permalink: /faq/
 ---
 
 **What types of projects are supportable?**  
