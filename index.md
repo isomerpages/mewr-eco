@@ -1,35 +1,38 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
+title: SG Eco Fund
+description: 
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+# notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: Do you have an idea that supports environmental sustainability and involves the community?
+        # subtitle: Hero subtitle
+        background: /images/rooftop-farm.jpg
+        # button: Apply for the SG Eco Fund Now
+        # url: /contact-us/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Apply for the SG Eco Fund Now
+              description:
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            # - title: Highlight B
+            #   description: Important highlight B is equally important
+            #   url: https://gmail.com
+            # - title: Page A
+            #   description: Page A is important too
+            #   url: /privacy/
+    # - infobar:
+    #     title: Infobar title
+    #     subtitle: Subtitle
+    #     description: About a sentence worth of description here
+    #     button: Button text
+    #     url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: Updates
+        # subtitle: Learn more
         button: View More
 ---
+
+// test
+// test on staging david
