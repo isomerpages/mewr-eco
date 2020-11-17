@@ -2,7 +2,7 @@
 layout: homepage
 title: SG Eco Fund
 description: 
-image: /images/isomer-logo.svg
+image: /images/sgeco-logo.jpg
 permalink: /
 # notification: Here's a notification bar you can use!
 sections:

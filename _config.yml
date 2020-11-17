@@ -1,6 +1,6 @@
 title: SG Eco Office
-url: "" # the base hostname & protocol for your site, e.g. http://sgeco.gov.sg
-favicon: /images/favicon-isomer.ico
+url: "https://www.sgeco.gov.sg" # the base hostname & protocol for your site, e.g. http://sgeco.gov.sg
+favicon: /images/favicon.ico
 
 # Site colors
 # #009459
