@@ -1,7 +1,7 @@
----
+<!-- ---
 title: FAQ
 permalink: /faq/
----
+--- -->
 
 **What types of projects are supportable?**  
 Projects can include, but are not limited to:

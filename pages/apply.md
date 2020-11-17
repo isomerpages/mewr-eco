@@ -1,6 +1,6 @@
 ---
-title: Apply
-permalink: /apply/
+# title: Apply
+# permalink: /apply/
 ---
 
 **When can I apply?**
