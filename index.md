@@ -7,15 +7,15 @@ permalink: /
 # notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: <h1 style="text-shadow:2px 2px 4px black">Do you have an idea that supports environmental sustainability and involves the community?</h1>
-        # subtitle: Hero subtitle
-        background: /images/rooftop-farm.jpg
-        # button: Apply for the SG Eco Fund Now
+        title: 
+        # subtitle: Do you have an idea that supports environmental sustainability and involves the community?
+        background: /images/SGEco_herobanner.jpg
+        # button: 
         # url: /contact-us/
         key_highlights:
-            # - title: Apply for the SG Eco Fund Now
-              description:
-              url: https://google.com
+            - title: Do you have an idea that supports environmental sustainability and involves the community?  
+              description: Apply for the SG Eco Fund Now
+              url: /contact-us/
             # - title: Highlight B
             #   description: Important highlight B is equally important
             #   url: https://gmail.com
