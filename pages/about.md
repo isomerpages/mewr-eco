@@ -12,7 +12,7 @@ The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory C
 Albert Chua (Chairman)  
 Permanent Secretary, Ministry of Sustainability and the Environment
 
-Charly Mah  
+Chaly Mah  
 Chairman, Singapore Tourism Board
 
 Lily Kong  
