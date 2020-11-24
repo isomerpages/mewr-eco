@@ -1,6 +1,6 @@
-<!-- ---
+---
 layout: contact_us
-title: Contact Us -->
+title: Contact Us
 permalink: /contact-us/
 agency_name: SG Eco Fund
 # locations:

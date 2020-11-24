@@ -16,6 +16,19 @@ $secondary-hover: lighten($secondary, 10%);
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
+
+// Remove hero bg alpha
+.bp-hero-body {
+  background: rgba(0, 0, 0, 0) !important;
+}
+
+// Remove PDF icon before links
+a[href$=".pdf"]:before {
+  content: none;
+}
+
+
+
 // Mixins
 
 @mixin touch() {
