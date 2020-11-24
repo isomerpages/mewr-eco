@@ -25,8 +25,8 @@ sections:
     - infobar:
         # title: Do you have an idea that supports environmental sustainability and involves the community?
         # subtitle: Do you have an idea that supports environmental sustainability and involves the community?
-        description: Do you have an idea that supports environmental sustainability and involves the community?
-        button: <h3><strong>Apply for the SG Eco Fund Now</strong></h3>
+        description: Do you have an idea that supports environmental sustainability <br> and involves the community?
+        button: <h2><strong>Apply for the <br> SG Eco Fund Now</strong></h2><br>
         url: /apply/
     # # - resources:
     #     title: Updates
