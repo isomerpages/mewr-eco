@@ -4,8 +4,9 @@ permalink: /faq/
 ---
 
 **What types of projects are supportable?**  
+
 Projects include, but are not limited to:
-* Those jointly initiated by the community to improve the environment or advance environmental sustainability within the town (e.g. residents working together to set up a community fridge and redistribute excess food);
+* Those jointly initiated by the community and businesses to advance environmental sustainability;
 * Those educating the community and promoting awareness on environmental sustainability practices;
 * Those implementing innovative technologies to help the community reduce usage of resources;
 * Those developing behavioural nudges and interventions to encourage environmentally-friendly habits.
