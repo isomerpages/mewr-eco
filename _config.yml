@@ -3,21 +3,21 @@ url: "https://www.sgeco.gov.sg" # the base hostname & protocol for your site, e.
 favicon: /images/favicon.ico
 
 # Site colors
-# #009459
+# 265433
 colors:
-  primary-color: '#376739'
-  secondary-color: '#376739'
+  primary-color: '#265433'
+  secondary-color: '#265433'
   media-colors:
     - title: media-color-one
-      color: '#376739'
+      color: '#265433'
     - title: media-color-two
-      color: '#376739'
+      color: '#265433'
     - title: media-color-three
-      color: '#376739'
+      color: '#265433'
     - title: media-color-four
-      color: '#376739'
+      color: '#265433'
     - title: media-color-five
-      color: '#376739'
+      color: '#265433'
 
 
 collections:
