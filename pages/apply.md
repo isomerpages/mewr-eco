@@ -9,9 +9,9 @@ The SG Eco Fund is open for application only during the grant call period. The f
 Applicants can download the application form and budget template below, and submit them together with the supporting documents, to [sg_eco_fund@mse.gov.sg](mailto:sg_eco_fund@mse.gov.sg) by **31 January 2021**. 
 
 Application Form (choose one)
-* [Individuals](../resources/SG_Eco_Fund_Application_Form_-_Individuals.docm)
-* [Organisations](../resources/SG_Eco_Fund_Application_Form_-_Organisations.docm)
-* [Public Agencies](../resources/SG_Eco_Fund_Application_Form_-_Public_Agencies.docm)  
+* [Individuals](../resources/SG_Eco_Fund_Application_Form-Individuals.docm)
+* [Organisations](../resources/SG_Eco_Fund_Application_Form-Organisations.docm)
+* [Public Agencies](../resources/SG_Eco_Fund_Application_Form-Public_Agencies.docm)  
 
 
 Budget Template  

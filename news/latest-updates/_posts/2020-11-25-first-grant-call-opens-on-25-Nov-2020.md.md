@@ -82,7 +82,7 @@ The SG Eco Fund is open to the following applicants:
 
 - Individuals: Must be a Singapore Citizen or Permanent Resident, above 18 years old, and residing in Singapore;
 - Groups of Individuals: All individuals must be above 18 years old and residing in Singapore, and the group must have at least one Singapore Citizen or Permanent Resident;
-- Organisations: Singapore-registered organisation, including companies, charities, government and non-government organisations.
+- Organisations: Singapore-registered organisations, including companies, charities, government and non-government organisations.
 
 Projects must:
 
