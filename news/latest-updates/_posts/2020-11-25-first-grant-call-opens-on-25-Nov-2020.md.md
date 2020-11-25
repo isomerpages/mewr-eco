@@ -6,6 +6,8 @@ permalink: /news/latest-updates/launch
 
 **Celebrating the _2020: Singapore Food Story_ Campaign and Launch of the First Grant Call for SG Eco Fund**
 
+<a href="#annex">SG Eco Fund Factsheet (Annex).</a>
+
 **25 November 2020 –** The Ministry of Sustainability and the Environment (MSE) celebrated the eventful year-long _2020: Singapore Food Story_ campaign at its year-end appreciation event held today.
 
 **2020: Singapore Food Story**
@@ -40,35 +42,7 @@ permalink: /news/latest-updates/launch
 
 <center>End</center>
 
-**For media queries, please contact:**
-
-**Vincent Wang**
-
-Strategic Communications &amp; Media Operations
-
-Ministry of Sustainability and the Environment
-
-Tel: 6731 9865
-
-Email: [vincent\_wang@mse.gov.sg](mailto:vincent_wang@mse.gov.sg)
-
-**Ho Ying Jie (Ms)**
-
-Strategic Communications &amp; Media Operations
-
-Ministry of Sustainability and the Environment
-
-Tel: 6731 9590
-
-Email: [ho\_ying\_jie@mse.gov.sg](mailto:ho_ying_jie@mse.gov.sg)
-
-**About the Ministry of Sustainability and the Environment**
-
-The Ministry of Sustainability and the Environment (MSE) is committed to providing Singaporeans with a clean and sustainable environment, and resilient supplies of safe food and water.
-
-MSE works alongside its three statutory boards – the National Environment Agency (NEA), PUB, Singapore&#39;s National Water Agency, and the Singapore Food Agency (SFA) – to achieve this mission through innovation, technology, and vibrant partnerships with the private, public, and people (3P) sectors.
-
-For more information, please visit [http://www.mse.gov.sg/](http://www.mse.gov.sg/)
+<a id="annex"></a>
 
 **Annex A: Factsheet on SG Eco Fund**
 
