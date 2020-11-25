@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Speech at MSE Year End Appreciation Event by Ms Grace Fu
+title:  Speech at MSE Year End Appreciation Event by Minister Grace Fu
 permalink: /news/latest-updates/speech-at-year-end-appreciation-event
 ---
 
