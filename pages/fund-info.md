@@ -11,7 +11,7 @@ The SG Eco Fund is open to the following applicants:
 
 * Groups of Individuals: All individuals must be above 18 years old and residing in Singapore, and the group must have at least one Singapore Citizen or Permanent Resident;
 
-* Organisations: Any Singapore-registered organisation, including companies, charities, government and non-government organisations.
+* Organisations: Singapore-registered organisations, including companies, charities, government and non-government organisations.
 
 
 **Projects must:**
@@ -25,7 +25,7 @@ Address one or more of these sustainability issues:
 
 Projects should address at least one area of environmental sustainability, including
 but not limited to the following: climate change; energy; waste; water; food; nature
-and biodiversity; environmental pollution; environmental public health.
+and biodiversity; environmental pollution; or environmental public health.
 
 **Funding Support** 
 
@@ -38,7 +38,7 @@ The SG Eco Fund supports these cost items:
 * Educational materials (e.g. brochures, publications, books, etc);
 * Marketing and publicity (e.g. production of posters, EDMs, photography, etc);
 * Logistics and transportation;
-* Equipment and tools necessary for project implementation
+* Equipment and tools necessary for project implementation.
 
 The SG Eco Fund does not support these cost items:
 * Manpower;
