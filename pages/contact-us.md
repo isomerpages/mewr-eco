@@ -21,8 +21,8 @@ agency_name: SG Eco Fund
 #         - Singapore 179097
 #     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
-  - title: General Enquiries & Feedback
-    content:
+  - title: If you have a query or feedback about the SG Eco Fund, please contact us at
+    content: 
 #     - phone: +65 6123 4567
     - email: sg_eco_fund@mse.gov.sg
 #     - other: Any text here <i>including HTML</i>
