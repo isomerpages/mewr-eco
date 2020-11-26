@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Speech at MSE Year End Appreciation Event - Ms Grace Fu
+title:  2020:&nbspSG Food Story Appreciation Event
 permalink: /news/latest-updates/speech-at-year-end-appreciation-event
 ---
 
