@@ -58,7 +58,7 @@ Winston Chow
 Associate Professor (Science, Technology, and Society), School of Social Sciences, Singapore Management University
 
 Zakir Hussain  
-News Editor, Singapore Press Holdings
+Singapore Editor, The Straits Times, SPH
 
 
 **SG Eco Office**

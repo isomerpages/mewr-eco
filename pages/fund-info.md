@@ -14,10 +14,8 @@ The SG Eco Fund is open to the following applicants:
 * Organisations: Singapore-registered organisations, including companies, charities, government and non-government organisations.
 
 
-**Projects must:**
+Projects must:
 
-
-Address one or more of these sustainability issues:
 * Improve the environment or advance environmental sustainability in Singapore;
 * Engage and/or involve the community;
 * Not have commenced;
