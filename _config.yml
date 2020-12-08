@@ -53,3 +53,5 @@ plugins:
   - jekyll-sitemap
 description: test test
 
+recommender: true
+
