@@ -4,7 +4,7 @@ title:  Singapore Food Story Campaign and Launch of the First Grant Call for SG 
 permalink: /news/latest-updates/launch
 ---
 
-**Celebrating the _2020: Singapore Food Story_ Campaign and Launch of the First Grant Call for SG Eco Fund**
+**Celebrating the _2020: Singapore Food Story_ Campaign and Launch of the First Grant Call for [SG Eco Fund](https://www.sgeco.gov.sg)**
 
 <a href="#annex">SG Eco Fund Factsheet (Annex).</a>
 
@@ -30,7 +30,7 @@ permalink: /news/latest-updates/launch
 
 9 MSE has been working with our People, Private, and Public (3P) partners to raise awareness of the importance of having a resilient supply of food. For example, the Youth Track at the Global Compact Network Singapore (GCNS) Virtual Summit explored the topic of food security, and The Maju Collective organised a hackathon on food supply resilience. Ricoh Asia Pacific partnered with the community and schools to distribute gardening seeds and encouraged the public to harvest and plant their own vegetables. Free seed packs, funded by DBS and the Tote Board through the Garden City Fund, were also distributed to the public under NParks&#39; &quot;Gardening with Edibles&quot; initiative.
 
-**First Grant Call for $50 million SG Eco Fund**
+**First Grant Call for $50 million [SG Eco Fund](https://www.sgeco.gov.sg)**
 
 10 In March, MSE announced that a $50 million SG Eco Fund would be set up to foster greater community and individual ownership of and action on environmental sustainability in Singapore. The Fund is open to the 3P sectors and aims to support ground-up projects that involve the community and advance environmental sustainability in Singapore. The fund will cover projects across a broad range of areas related to sustainability, including climate change mitigation, waste reduction, as well as the conservation of nature and biodiversity.
 
