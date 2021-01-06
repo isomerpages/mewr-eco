@@ -26,12 +26,12 @@ Applicants may submit more than one project application, but will have to show t
 **How will projects be assessed?**  
 
 Projects will be evaluated against the following criteria:
-* Track record and expertise
-* Environmental sustainability
-* Community engagement
-* Implementation
-* Innovation
-* Impact
+* Track record and expertise: Applicant has a good track record and the appropriate expertise, such as the ability to execute the project successfully.
+* Environmental sustainability: The project is likely to produce tangible environmental sustainability outcomes in Singapore and addresses more than one domain of environmental sustainability.
+* Community and/or stakeholder engagement: Community and/or stakeholders are meaningfully involved in the conceptualisation and/or implementation of the project, and the project is likely to increase awareness and/or groom advocates.
+* Implementation: The project has a clear strategy and implementation plan with measurable outcomes, has identified potential risks and ways to mitigate the risks, and has a clear leadership and governance structure to manage the project.
+* Innovation: The project contains new and useful concepts, approaches or technologies, and has never been done in Singapore.
+* Impact: The project has the potential to produce needle-moving environmental sustainability outcomes and to be replicated or scaled up, and is strategically relevant to Singapore.
 
 **How will the grant be disbursed?**  
 
