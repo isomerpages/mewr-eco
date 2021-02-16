@@ -17,7 +17,7 @@ Together, a sustainable and green Singapore for all generations.
 
 To enable our community to build a sustainable and green Singapore.
 
-<br />
+__________________________________________________________________
 
 The SG Eco Fund is managed by a Board of Trustees and supported by an Advisory Committee comprising representatives from the People, Private and Public (3P) sectors, as well as the SG Eco Office. The members of the Board of Trustees and Advisory Committee are as follows:
 
