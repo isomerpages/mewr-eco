@@ -20,11 +20,6 @@ colors:
       color: '#265433'
 
 
-collections:
-  apply:
-    output: true
-  showcase:
-    output: true
 google_analytics: UA-183999332-3
 resources_name: news
 
@@ -46,10 +41,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: test test
+
+staging: https://mewr-eco-staging.netlify.app
+prod: https://mewr-eco-prod.netify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
-
+  - jekyll-remote-theme

@@ -1,0 +1,6 @@
+collections:
+  apply:
+    output: true
+    order:
+      - how-to-apply.md
+      - downloads.md
