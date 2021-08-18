@@ -11,7 +11,7 @@ sections:
         subtitle: 
         background: /images/SGEco_herobanner.jpg
         button: Apply for the SG Eco Fund
-        url: http://www.mse.gov.sg/sgecofund/apply
+        url: https://www.sgeco.gov.sg/apply/
         # key_highlights:
         #     - title: Do you have an idea that supports environmental sustainability and involves the community? <br><br> Apply for the SG Eco Fund Now
               # description: Apply for the SG Eco Fund Now
