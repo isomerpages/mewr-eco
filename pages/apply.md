@@ -7,7 +7,7 @@ permalink: /apply/
 
 The SG Eco Fund is open for application only during the grant call period. The first grant call period opened on 25 November 2020 and closed on 31 January 2021. 
 
-Keep a lookout for the upcoming second grant call.
+Keep a lookout for the upcoming second grant call at 
 
 <!-- The applications will be evaluated in two batches. Applications received by 31 December 2020 will be processed earlier, while applications received after 31 December 2020 will be processed later.
 
